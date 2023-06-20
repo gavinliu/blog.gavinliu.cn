@@ -10,8 +10,8 @@ site:
   name: # 左上角显示内容
     class: i_class #i_class/text/img
     custom: fa-solid fa-ghost #自定义内容
-  siteIcon: /img/avatar.webp # 网页icon
-  icon: /img/avatar.webp # 页脚的icon、加载动画默认的icon
+  siteIcon: /img/favicon.png # 网页icon
+  icon: /img/favicon.png # 页脚的icon、加载动画默认的icon
   icp: # ICP
 
 # 导航栏
@@ -22,7 +22,7 @@ nav:
     menu:
       我的:
         博客:
-          icon: /img/avatar.webp
+          icon: /img/favicon.png
           url: /xx
   # 导航栏内容
   menu:
@@ -41,7 +41,7 @@ nav:
     我的:
       url: false
       child:
-        关于:
+        关于本站:
           url: /about/
           icon: fa-solid fa-user
 
@@ -113,8 +113,8 @@ hometop:
   recommendList:
     sup: 新品推荐
     title: Snapmod
-    url: /
-    img: /img/acrylic.png
+    url: /2018/07/16/90a0e986eb9b.html
+    img: /img/recommend_banner.png
     color: "#006a73"
 
 # 个人卡片
@@ -140,7 +140,7 @@ aside:
         url: mailto:gavin6liu@gmail.com
     button:
       text: 更多信息
-      url: /
+      url: /about
 
   flip:
     color: "#0099FF"
@@ -164,7 +164,7 @@ aside:
     uv: false
     updatetime: false
     runtimeenable: true
-    runtime: "2021-12-12 00:00:00"
+    runtime: "2012-02-28 00:00:00"
 
 # 页脚
 footer:
@@ -221,9 +221,9 @@ post:
   meta:
     date: true
     updated: false
-    locate: false
+    locate: true
     wordcount: false
-    readtime: true
+    readtime: false
     pv: false
     comment: false
   award:
@@ -285,6 +285,8 @@ thirdparty:
     enable: false
     server: tencent
     id: 1708664797
+
+  consolePlus: false
 
 # 评论
 comment:
