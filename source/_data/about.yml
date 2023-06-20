@@ -12,12 +12,12 @@ authorinfo:
   image: "/img/avatar.webp"
 
 contentinfo:
-  name: Acrylic
-  title: 设计师、产品经理、独立开发者、博主
-  product: 优秀的产品
-  design: 出色的设计
-  program: 高效的编程
-  user_experience: 人性化的用户体验
+  name: Gavin Liu
+  title: 全<del>栈</del>干工程师 / 独立开发者 / 数码爱好者
+  product: 产品
+  design: 设计
+  program: 程序
+  user_experience: 体验
 
 skills:
   title: 技能
@@ -70,12 +70,18 @@ careers:
   title: "生涯"
   subtitle: "无限进步"
   items:
-    - school: "DLPU"
-      major: "产品设计专业"
-      color: "#357ef5"
-    - school: "ITSO"
-      major: "UI/产品经理"
-      color: "#eb372a"
+    - school: "MEIZU"
+      link: "https://meizu.com"
+      major: "Android 开发工程师"
+      color: "#0098ff"
+    - school: "Tower"
+      link: "https://tower.im"
+      major: "产品研发工程师"
+      color: "#54b2bd"
+    - school: "小鸡叫叫"
+      link: "https://jojoreading.com/"
+      major: "客户端鼓励师 | AI 训练师"
+      color: "#ffdc00"
   image: "https://p.zhheo.com/20236d5152f4058d0b8b29185c7b71bbd74a071902.png!cover"
 
 personalities:
@@ -127,11 +133,14 @@ likes:
     img: https://bu.dusays.com/2023/03/12/640dc6bed6d2d.jpg
 
 oneself:
-  location: "中国，北京市"
-  birthYear: "1997"
-  university: "太原理工大学"
-  major: "计算机科学"
-  occupation: "BI工程师"
+  location: "中国，成都市"
+  birthYear: "1992"
+  university: "四川大学"
+  major: "计算机科学与技术"
+  occupation: "软件工程师"
+  map:
+    light: /img/map.png
+    dark: /img/map.png
 
 tj:
   url: https://v6-widget.51.la/v6/K0yfsHaZHpjPWap0/quote.js
