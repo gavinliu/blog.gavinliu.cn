@@ -23,7 +23,7 @@ nav:
       我的:
         博客:
           icon: /img/favicon.png
-          url: /xx
+          url: /
   # 导航栏内容
   menu:
     文库:
@@ -38,6 +38,12 @@ nav:
         全部标签:
           url: /tags/
           icon: fa-solid fa-tags
+    专栏:
+      url: false
+      child:
+        Android 开发日常:
+          url: /tags/Android/
+          icon: fa-solid fa-mobile
     我的:
       url: false
       child:
@@ -115,7 +121,7 @@ hometop:
     title: Snapmod
     url: /2018/07/16/90a0e986eb9b.html
     img: /img/recommend_banner.png
-    color: "#006a73"
+    color: "#4a4a4a"
 
 # 个人卡片
 aside:
@@ -159,7 +165,7 @@ aside:
   # 建站时间
   siteinfo:
     postcount: true
-    wordcount: false
+    wordcount: true
     pv: false
     uv: false
     updatetime: false
@@ -222,8 +228,8 @@ post:
     date: true
     updated: false
     locate: true
-    wordcount: false
-    readtime: false
+    wordcount: true
+    readtime: true
     pv: false
     comment: false
   award:
@@ -255,12 +261,12 @@ lightbox: true
 
 #代码高亮增强
 hightlight:
-  enable: false
+  enable: true
   hightlimit: 200
 
 # 加载动画
 loading:
-  fullpage: false
+  fullpage: true
   pace: false
 
 # 第三方设置
