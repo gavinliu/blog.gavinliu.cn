@@ -1783,9 +1783,9 @@ blockquote footer cite::before {
   text-align: center;
 }
 
-#aside-content .aside-list>.aside-list-item:last-child {
+/* #aside-content .aside-list>.aside-list-item:last-child {
   padding-bottom: 0px;
-}
+} */
 
 #aside-content .aside-list>.aside-list-item .thumbnail {
   overflow: hidden;
