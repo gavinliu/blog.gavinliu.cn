@@ -52,7 +52,7 @@
             <% careers.items.forEach(function(item) { %>
             <div class="careers-item">
                 <div class="circle" style="background: <%= item.color %>"></div>
-                <div class="name"><%= item.school %>, <%= item.major %></div>
+                <div class="name"><a href="<%= item.link %>"><%= item.school %> </a>, <%= item.major %></div>
             </div>
             <% }); %>
         </div>
