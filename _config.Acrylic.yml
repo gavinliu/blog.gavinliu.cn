@@ -47,7 +47,10 @@ nav:
     我的:
       url: false
       child:
-        关于本站:
+        # 我的装备:
+        #   url: /equipment/
+        #   icon: fa-solid fa-laptop
+        关于我的:
           url: /about/
           icon: fa-solid fa-user
 
@@ -59,48 +62,55 @@ nav:
 
 # heo式顶部一大坨
 hometop:
-  bbtime: false
+  bbtime: true
+
   banner:
     enable: true
     title: 代码人生<br>与科技生活
     url: GAVINLIU.CN
     icon:
-      AE:
-        img: /img/icon/ae.png
-        color: "#989bf8"
-      Sketch:
-        img: /img/icon/Sketch.png
+      Android:
+        img: /img/icon/Android.png
         color: "#ffffff"
-      Docker:
-        img: /img/icon/docker.png
-        color: "#57b6e6"
-      ps:
-        img: /img/icon/ps.png
-        color: "#4082c3"
-      FinalCutPro:
-        img: /img/icon/FinalCutPro.png
+      Apple:
+        img: /img/icon/Apple.svg
         color: "#ffffff"
+      Java:
+        img: /img/icon/Java.png
+        color: "#ffffff"
+      Kotlin:
+        img: /img/icon/Kotlin.png
+        color: "#27282c"
       Python:
         img: /img/icon/Python.png
         color: "#ffffff"
       Swift:
         img: /img/icon/Swift.png
         color: "#eb6840"
-      Principle:
-        img: /img/icon/Principle.png
-        color: "#8f55ba"
-      illustrator:
-        img: /img/icon/illustrator.png
-        color: "#f29e39"
+      HTML:
+        img: /img/icon/HTML.png
+        color: "#e9572b"
       CSS3:
         img: /img/icon/CSS3.png
         color: "#2c51db"
       JS:
         img: /img/icon/JS.png
         color: "#f7cb4f"
+      Docker:
+        img: /img/icon/docker.png
+        color: "#57b6e6"
       Git:
         img: /img/icon/git.png
         color: "#df5b40"
+      Sketch:
+        img: /img/icon/Sketch.png
+        color: "#ffffff"
+      AE:
+        img: /img/icon/ae.png
+        color: "#989bf8"
+      PS:
+        img: /img/icon/ps.png
+        color: "#4082c3"
 
   categoryGroup:
     G1:
