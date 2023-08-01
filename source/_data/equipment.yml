@@ -1,0 +1,8 @@
+- class_name: 生产力
+  description: 提升自己生产效率的硬件设备
+  equipment_list:
+    - name: MacBook Pro
+      specification: 15-inch, 2017
+      description: 屏幕显示效果好、色彩准确、对比度强、性能强劲、续航优秀。可以用来开发和设计。
+      image: https://xxx.com/images/macbook.png
+      link: https://www.apple.com.cn/
