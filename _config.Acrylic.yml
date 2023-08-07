@@ -225,7 +225,7 @@ footer:
     url:
     desc:
   rss:
-    url: rss.xml
+    url: /atom.xml
   license:
     url: https://creativecommons.org/licenses/by/4.0/
     icon: fas fa-closed-captioning
