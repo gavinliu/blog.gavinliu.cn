@@ -1,10 +1,10 @@
 ---
 title: 我的装备
-desc: BBTime / 不吐不快
-tips: 以下仅代表个人观点，不代表公众意见
+desc: 好物推荐
+tips: 跟我一起享受科技带来的乐趣
 date: 2023-08-01 23:54:00
 comments: true
 aside: false
 type: equipment
-cover: /img/says_banner.jpg
+cover: /img/equipment.jpg
 ---
