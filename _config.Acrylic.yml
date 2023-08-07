@@ -187,19 +187,19 @@ aside:
 footer:
   information:
     left:
-      Github:
-        icon: fa-brands fa-github
-        url: https://github.com/gavinliu
-      Mail:
-        icon: fa-solid fa-envelope
-        url: /
+      # Github:
+      #   icon: fa-brands fa-github
+      #   url: https://github.com/gavinliu
+      # Mail:
+      #   icon: fa-solid fa-envelope
+      #   url: mailto:gavin6liu@gmail.com
     right:
-      网易云:
-        icon: fa-solid fa-music
-        url: /
-      bilibili:
-        icon: fa-brands fa-bilibili
-        url: /
+      # 网易云:
+      #   icon: fa-solid fa-music
+      #   url: /
+      # bilibili:
+      #   icon: fa-brands fa-youtube
+      #   url: /
 
   group:
     # 导航:
@@ -286,8 +286,8 @@ hightlight:
 
 # 加载动画
 loading:
-  fullpage: true
-  pace: false
+  fullpage: false
+  pace: true
 
 # 第三方设置
 thirdparty:
@@ -326,6 +326,8 @@ comment:
 # 插入额外代码 如：统计，广告等
 extends:
   head:
+    - <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+    - <script>LA.init({id:"3FVRnNbwv2ZoRqcz",ck:"3FVRnNbwv2ZoRqcz"})</script>
   body:
 
 # 非必要勿动
