@@ -235,12 +235,12 @@ page:
   tags: true
   categories: true
   default:
-    cover: /img/hello.jpg
+    cover: /img/cover/default.png
 
 # 文章页默认设置
 post:
   default:
-    cover: /img/hello.jpg
+    cover: /img/cover/default.png
     locate: 成都
     copyright: 原创
     excerpt: 100
