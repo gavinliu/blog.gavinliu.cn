@@ -167,7 +167,7 @@ aside:
     backface:
       title: 扫一扫
       desc: 不错过精彩文章
-      img: /img/qqgroup.png
+      img: /img/wechat_qr.jpg
 
   toc:
     post: true
