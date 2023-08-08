@@ -160,13 +160,13 @@ aside:
       url: /about
 
   flip:
-    color: "#0099FF"
+    color: "#57bd6a"
     face:
-      title: QQ群
-      desc: 加入官方QQ群与我们交流
+      title: 公众号
+      desc: 快人一步获取最新文章
     backface:
       title: 扫一扫
-      desc: 获取最新信息和帮助
+      desc: 不错过精彩文章
       img: /img/qqgroup.png
 
   toc:
@@ -266,15 +266,15 @@ about: true
 
 # 404页面
 errorpage:
-  img: /img/acrylic.png
-  text: =awa= 页面走丢了
+  img: /img/cover/default.png
+  text: 页面走丢了，看看下面的推荐吧
   recommendList: true
 
 # 懒加载
 lazyload:
-  enable: false
-  placeholder: /img/acrylic.png
-  errorimg: /img/acrylic.png
+  enable: true
+  placeholder: /img/cover/default.png
+  errorimg: /img/cover/default.png
 
 # 图片灯箱
 lightbox: true
