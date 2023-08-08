@@ -316,9 +316,9 @@ thirdparty:
 
 # 评论
 comment:
-  enable: false
+  enable: true
   twikoo:
-    envId:
+    envId: https://gavinliu-twikoo.zeabur.app
     # region: ap-shanghai
     path: window.location.pathname
 
