@@ -4,5 +4,91 @@
     - name: MacBook Pro
       specification: 15-inch, 2017
       description: 屏幕显示效果好、色彩准确、对比度强、性能强劲、续航优秀。可以用来开发和设计。
-      image: https://p.zhheo.com/YnW8cc21590681686120255749.png!cover
+      image: /img/equipment/MacBook.png
       link: https://www.apple.com.cn/
+    - name: BenQ PD2700U
+      specification: 27-inch, 4K HDR
+      description: 屏幕显示效果好
+      image: /img/equipment/BenQ_PD2700U.png
+      link:
+    - name: Magic KeyBoard
+      specification: 1 代 & 2 代
+      description: 1 代手感更佳，2 代充电更方便，各有千秋
+      image:
+      link:
+    - name: Magic Trackpad
+      specification: 1 代 & 2 代
+      description: 2 代面板面积更大，充电更方便，2 代完胜
+      image:
+      link:
+- class_name: 音影娱乐
+  description: 用来娱乐的硬件设备
+  equipment_list:
+    - name: 绿联 DX4600
+      specification:
+      description:
+      image:
+      link:
+    - name: iPad Mini 6
+      specification:
+      description: 原神启动器
+      image:
+      link:
+    - name: Nintendo Switch
+      specification: 国行勇士
+      description: 塞尔达启动器
+      image:
+      link:
+    - name: SONY PS 4
+      specification: 国行首批
+      description: GTA5 启动器
+      image:
+      link:
+- class_name: 爱搞机
+  description: 用来娱乐的硬件设备
+  equipment_list:
+    - name: iPhone 11
+      specification:
+      description:
+      image:
+      link:
+    - name: Smartisan 坚果 Pro 2s
+      specification:
+      description:
+      image:
+      link:
+    - name: Xiaomi MI 8
+      specification:
+      description:
+      image:
+      link:
+    - name: MEIZU Pro 6
+      specification:
+      description:
+      image:
+      link:
+    - name: MEIZU MX 5
+      specification:
+      description:
+      image:
+      link:
+    - name: MEIZU MX 4
+      specification:
+      description:
+      image:
+      link:
+    - name: MEIZU MX 3
+      specification:
+      description:
+      image:
+      link:
+    - name: MEIZU MX 2
+      specification:
+      description:
+      image:
+      link:
+    - name: MEIZU MX
+      specification:
+      description:
+      image:
+      link:
