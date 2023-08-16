@@ -3,34 +3,34 @@
   equipment_list:
     - name: MacBook Pro
       specification: 15-inch, 2017
-      description: 屏幕显示效果好、色彩准确、对比度强、性能强劲、续航优秀。可以用来开发和设计。
+      description: 屏幕显示效果好、色彩准确、对比度强、性能强劲、续航优秀
       image: /img/equipment/MacBook.png
       link: https://www.apple.com.cn/
     - name: BenQ PD2700U
-      specification: 27-inch, 4K HDR
-      description: 屏幕显示效果好
+      specification: 27-inch, 4K HDR10
+      description: 专业设计显示器，色彩还原度和 MacBook 屏幕基本无差别
       image: /img/equipment/BenQ_PD2700U.png
-      link:
+      link: https://www.benq.com.cn/zh-cn/monitor/designer/pd2705u.html
     - name: Magic KeyBoard
       specification: 1 代 & 2 代
       description: 1 代手感更佳，2 代充电更方便，各有千秋
-      image:
-      link:
+      image: /img/equipment/Magic_KeyBoard.png
+      link: https://www.apple.com.cn/shop/product/MK2A3CH/A
     - name: Magic Trackpad
       specification: 1 代 & 2 代
       description: 2 代面板面积更大，充电更方便，2 代完胜
-      image:
-      link:
+      image: /img/equipment/Magic_Trackpad.png
+      link: https://www.apple.com.cn/shop/product/MMMP3CH/A
 - class_name: 音影娱乐
   description: 用来娱乐的硬件设备
   equipment_list:
     - name: 绿联 DX4600
-      specification:
-      description:
+      specification: 4x4T RAID5
+      description: 家庭多媒体中心
       image:
       link:
     - name: iPad Mini 6
-      specification:
+      specification: 7.69-inch, 256G
       description: 原神启动器
       image:
       link:
@@ -45,9 +45,14 @@
       image:
       link:
 - class_name: 爱搞机
-  description: 用来娱乐的硬件设备
+  description: 搞机折腾的硬件设备
   equipment_list:
     - name: iPhone 11
+      specification:
+      description:
+      image:
+      link:
+    - name: iPhone 7
       specification:
       description:
       image:
@@ -58,6 +63,11 @@
       image:
       link:
     - name: Xiaomi MI 8
+      specification:
+      description:
+      image:
+      link:
+    - name: Google Nexus 5X
       specification:
       description:
       image:
