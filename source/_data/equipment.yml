@@ -5,7 +5,7 @@
       specification: 15-inch, 2017
       description: 屏幕显示效果好、色彩准确、对比度强、性能强劲、续航优秀
       image: /img/equipment/MacBook.png
-      link: https://www.apple.com.cn/
+      link: https://www.apple.com.cn/macbook-pro-14-and-16/specs/
     - name: BenQ PD2700U
       specification: 27-inch, 4K HDR10
       description: 专业设计显示器，色彩还原度和 MacBook 屏幕基本无差别
@@ -26,24 +26,24 @@
   equipment_list:
     - name: 绿联 DX4600
       specification: 4x4T RAID5
-      description: 家庭多媒体中心
-      image:
-      link:
+      description: 家庭多媒体中心 & 数据中心 & 计算中心
+      image: /img/equipment/DX4600.png
+      link: https://www.lulian.cn/product/994-cn.html
     - name: iPad Mini 6
       specification: 7.69-inch, 256G
-      description: 原神启动器
-      image:
-      link:
+      description: 最佳手游设备、原神启动器
+      image: /img/equipment/iPad_mini_6.png
+      link: https://www.apple.com.cn/ipad-mini/specs/
     - name: Nintendo Switch
       specification: 国行勇士
-      description: 塞尔达启动器
-      image:
-      link:
+      description: 最佳掌机设备、塞尔达启动器
+      image: /img/equipment/Nintendo_Switch.png
+      link: https://www.nintendo.com.hk/switch/mario/set/
     - name: SONY PS 4
       specification: 国行首批
-      description: GTA5 启动器
-      image:
-      link:
+      description: 最佳吃灰设备、GTA5 启动器
+      image: /img/equipment/PlayStation_4.png
+      link: https://www.playstation.com/zh-hans-cn/ps4/buy-ps4/
 - class_name: 爱搞机
   description: 搞机折腾的硬件设备
   equipment_list:
