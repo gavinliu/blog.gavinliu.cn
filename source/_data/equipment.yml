@@ -45,60 +45,55 @@
       image: /img/equipment/PlayStation_4.png
       link: https://www.playstation.com/zh-hans-cn/ps4/buy-ps4/
 - class_name: 爱搞机
-  description: 搞机折腾的硬件设备
+  description: 爱搞机，手机的机，下面机型展示截图来自 Snapmod
   equipment_list:
     - name: iPhone 11
-      specification:
-      description:
-      image:
-      link:
-    - name: iPhone 7
-      specification:
-      description:
-      image:
-      link:
+      specification: 2019, A13
+      description: 主力机
+      image: /img/equipment/iPhone_11.png
+      link: https://www.apple.com.cn/
     - name: Smartisan 坚果 Pro 2s
-      specification:
-      description:
-      image:
-      link:
+      specification: 2018, Snapdragon 710
+      description: 最便宜的 Smartisan TNT 设备，情怀入手
+      image: /img/equipment/Smartisan_Pro2s.png
+      link: https://www.smartisan.com/
     - name: Xiaomi MI 8
-      specification:
-      description:
-      image:
-      link:
+      specification: 2018, Snapdragon 845
+      description: iPhone X Android 复刻版
+      image: /img/equipment/Xiaomi_Mi8.png
+      link: https://mi.com/
+    - name: iPhone 7
+      specification: 2016, A10
+      description: 前主力机
+      image: /img/equipment/iPhone_7.png
+      link: https://www.apple.com.cn/
     - name: Google Nexus 5X
-      specification:
-      description:
-      image:
-      link:
+      specification: 2015, Snapdragon 808
+      description: Google 亲儿子，Android 开发最佳伴侣
+      image: /img/equipment/Nexus_5X.png
+      link: https://www.google.com/
     - name: MEIZU Pro 6
-      specification:
-      description:
-      image:
-      link:
+      specification: 2016, MediaTek Helio X25
+      description: 追求源于热爱
+      image: /img/equipment/MEIZU_Pro6.png
+      link: https://www.meizu.com/
     - name: MEIZU MX 5
-      specification:
-      description:
-      image:
-      link:
+      specification: 2015, MediaTek Helio X10 Turbo
+      description: 追求源于热爱
+      image: /img/equipment/MEIZU_MX5.png
+      link: https://www.meizu.com/
     - name: MEIZU MX 4
-      specification:
-      description:
-      image:
-      link:
+      specification: 2014, MediaTek 6595
+      description: 追求源于热爱
+      image: /img/equipment/MEIZU_MX4.png
+      link: https://www.meizu.com/
     - name: MEIZU MX 3
-      specification:
-      description:
-      image:
-      link:
+      specification: 2013, SAMSUNG Exynos 5410
+      description: 追求源于热爱
+      image: /img/equipment/MEIZU_MX3.png
+      link: https://www.meizu.com/
     - name: MEIZU MX 2
-      specification:
-      description:
-      image:
-      link:
-    - name: MEIZU MX
-      specification:
-      description:
-      image:
-      link:
+      specification: 2012, SAMSUNG Exynos 4412
+      description: 追求源于热爱
+      image: /img/equipment/MEIZU_MX2.png
+      link: https://www.meizu.com/
