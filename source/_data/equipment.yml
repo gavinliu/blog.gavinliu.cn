@@ -45,7 +45,7 @@
       image: /img/equipment/PlayStation_4.png
       link: https://www.playstation.com/zh-hans-cn/ps4/buy-ps4/
 - class_name: 爱搞机
-  description: 爱搞机，手机的机，下面机型展示截图来自 Snapmod
+  description: 爱搞机手机的机，下面机型图来自 Snapmod。Snapmod 是一款优秀的带壳截图软件，Google Play 搜索下载
   equipment_list:
     - name: iPhone 11
       specification: 2019, A13

@@ -38,12 +38,18 @@ nav:
         全部标签:
           url: /tags/
           icon: fa-solid fa-tags
-    # 专栏:
-    #   url: false
-    #   child:
-    #     Android 开发日常:
-    #       url: /tags/Android/
-    #       icon: fa-solid fa-mobile
+    专栏:
+      url: false
+      child:
+        Android:
+          url: /tags/Android/
+          icon: fa-solid fa-mobile
+        Flutter:
+          url: /tags/Flutter/
+          icon: fa-solid fa-dove
+        Stable Diffusion:
+          url: /tags/Stable-Diffusion/
+          icon: fa-solid fa-palette
     我的:
       url: false
       child:
