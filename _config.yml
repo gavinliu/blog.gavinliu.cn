@@ -113,8 +113,8 @@ theme: Acrylic
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: "git"
-  repo: git@github.com:gavinliu/gavinliu.github.io.git
-  branch: master
+  repo: git@github.com:gavinliu/blog.gavinliu.cn.git
+  branch: pages
 
 # feed
 ## Doc
