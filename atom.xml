@@ -11,7 +11,7 @@
   <rights>All rights reserved 2026, Gavin Liu</rights>
   <subtitle>代码人生与科技生活</subtitle>
   <title>Gavin Liu - 代码人生与科技生活</title>
-  <updated>2026-09-18T08:29:33.489Z</updated>
+  <updated>2026-09-18T16:33:42.018Z</updated>
   <entry>
     <author>
       <name>Gavin Liu</name>
@@ -26,7 +26,7 @@
       <![CDATA[<h2 id="前言"><a href="#前言" class="headerlink"]]>
     </summary>
     <title>Stable Diffusion 基础 4 | 文生图功能拆解</title>
-    <updated>2026-09-18T08:29:33.489Z</updated>
+    <updated>2026-09-18T16:33:42.018Z</updated>
   </entry>
   <entry>
     <author>
@@ -42,7 +42,7 @@
       <![CDATA[<h2 id="什么是提示词"><a href="#什么是提示词" class="headerlink" title="什么是提示词"></a>什么是提示词</h2><p>讲提示词前，需要给大家先讲一个概念]]>
     </summary>
     <title>Stable Diffusion 基础 3 | 提示词快速上手</title>
-    <updated>2026-09-18T08:29:33.489Z</updated>
+    <updated>2026-09-18T16:33:42.018Z</updated>
   </entry>
   <entry>
     <author>
@@ -58,7 +58,7 @@
       <![CDATA[<h2 id="模型是什么？"><a href="#模型是什么？" class="headerlink"]]>
     </summary>
     <title>Stable Diffusion 基础 2 | 模型快速上手</title>
-    <updated>2026-09-18T08:29:33.489Z</updated>
+    <updated>2026-09-18T16:33:42.018Z</updated>
   </entry>
   <entry>
     <author>
@@ -74,7 +74,7 @@
       <![CDATA[<h2 id="Stable-Diffusion-是什么"><a href="#Stable-Diffusion-是什么" class="headerlink" title="Stable Diffusion 是什么"></a>Stable Diffusion]]>
     </summary>
     <title>Stable Diffusion 基础 1 | N 种安装上手方式</title>
-    <updated>2026-09-18T08:29:33.489Z</updated>
+    <updated>2026-09-18T16:33:42.018Z</updated>
   </entry>
   <entry>
     <author>
@@ -92,7 +92,7 @@
 <p>在 <code>Dart</code>]]>
     </summary>
     <title>Flutter 基础 4 | Dart 异步编程</title>
-    <updated>2026-09-18T08:29:33.489Z</updated>
+    <updated>2026-09-18T16:33:42.018Z</updated>
   </entry>
   <entry>
     <author>
@@ -109,7 +109,7 @@
       <![CDATA[<h2 id="Dart-运行平台"><a href="#Dart-运行平台" class="headerlink" title="Dart 运行平台"></a>Dart 运行平台</h2><p>首先需要了解下 Dart]]>
     </summary>
     <title>Flutter 基础 3 | Dart 核心库</title>
-    <updated>2026-09-18T08:29:33.489Z</updated>
+    <updated>2026-09-18T16:33:42.018Z</updated>
   </entry>
   <entry>
     <author>
@@ -127,7 +127,7 @@
 <p><a]]>
     </summary>
     <title>Flutter 基础 2 | Dart 基础语法</title>
-    <updated>2026-09-18T08:29:33.489Z</updated>
+    <updated>2026-09-18T16:33:42.018Z</updated>
   </entry>
   <entry>
     <author>
@@ -147,7 +147,7 @@
 <h2 id="代码风格"><a href="#代码风格"]]>
     </summary>
     <title>Flutter 基础 1 | Dart 代码规范</title>
-    <updated>2026-09-18T08:29:33.489Z</updated>
+    <updated>2026-09-18T16:33:42.018Z</updated>
   </entry>
   <entry>
     <author>
@@ -166,7 +166,7 @@
 </blockquote>]]>
     </summary>
     <title>服务器 | 基于 WebDAV 的服务器文件备份方案</title>
-    <updated>2026-09-18T08:29:33.489Z</updated>
+    <updated>2026-09-18T16:33:42.018Z</updated>
   </entry>
   <entry>
     <author>
@@ -182,7 +182,7 @@
       <![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>Snapmod 可以让您轻松的把截图添加到设备外壳中，您可以用它分享您的截图、壁纸或者]]>
     </summary>
     <title>Snapmod - 更好用的带壳截图软件</title>
-    <updated>2026-09-18T08:29:33.489Z</updated>
+    <updated>2026-09-18T16:33:42.018Z</updated>
   </entry>
   <entry>
     <author>
@@ -201,7 +201,7 @@
 </blockquote>]]>
     </summary>
     <title>服务器 | UFW - Linux 上最简单的防火墙配置工具</title>
-    <updated>2026-09-18T08:29:33.489Z</updated>
+    <updated>2026-09-18T16:33:42.018Z</updated>
   </entry>
   <entry>
     <author>
@@ -219,7 +219,7 @@
 </blockquote>]]>
     </summary>
     <title>Android | JNI 移植 bspatch 实现增量更新功能</title>
-    <updated>2026-09-18T08:29:33.489Z</updated>
+    <updated>2026-09-18T16:33:42.018Z</updated>
   </entry>
   <entry>
     <author>
@@ -237,7 +237,7 @@
 </blockquote>]]>
     </summary>
     <title>Android | 写给 Android 应用开发者的 JNI 快速入门指北</title>
-    <updated>2026-09-18T08:29:33.489Z</updated>
+    <updated>2026-09-18T16:33:42.018Z</updated>
   </entry>
   <entry>
     <author>
@@ -255,7 +255,7 @@
 </blockquote>]]>
     </summary>
     <title>Android | 写给 Android 应用开发者的 C 语言快速入门指北</title>
-    <updated>2026-09-18T08:29:33.489Z</updated>
+    <updated>2026-09-18T16:33:42.018Z</updated>
   </entry>
   <entry>
     <author>
@@ -274,7 +274,7 @@
 </blockquote>]]>
     </summary>
     <title>Android | FFmpeg 命令行运行方式 2</title>
-    <updated>2026-09-18T08:29:33.488Z</updated>
+    <updated>2026-09-18T16:33:42.017Z</updated>
   </entry>
   <entry>
     <author>
@@ -293,7 +293,7 @@
 </blockquote>]]>
     </summary>
     <title>Android | FFmpeg 命令行运行方式 1</title>
-    <updated>2026-09-18T08:29:33.488Z</updated>
+    <updated>2026-09-18T16:33:42.017Z</updated>
   </entry>
   <entry>
     <author>
@@ -311,7 +311,7 @@
 </blockquote>]]>
     </summary>
     <title>Android | 一种相似图片搜索算法的实现</title>
-    <updated>2026-09-18T08:29:33.488Z</updated>
+    <updated>2026-09-18T16:33:42.017Z</updated>
   </entry>
   <entry>
     <author>
@@ -330,7 +330,7 @@
 </blockquote>]]>
     </summary>
     <title>服务器 | Supervisor 使用小结</title>
-    <updated>2026-09-18T08:29:33.488Z</updated>
+    <updated>2026-09-18T16:33:42.017Z</updated>
   </entry>
   <entry>
     <author>
@@ -349,7 +349,7 @@
 </blockquote>]]>
     </summary>
     <title>Android | FFmpeg 编译成单 so 库</title>
-    <updated>2026-09-18T08:29:33.488Z</updated>
+    <updated>2026-09-18T16:33:42.017Z</updated>
   </entry>
   <entry>
     <author>
@@ -370,6 +370,6 @@
     <title>
       <![CDATA[Android | FFmpeg & Mac & AndroidStudio & CMake 环境搭建]]>
     </title>
-    <updated>2026-09-18T08:29:33.488Z</updated>
+    <updated>2026-09-18T16:33:42.017Z</updated>
   </entry>
 </feed>
